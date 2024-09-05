@@ -17,15 +17,8 @@ Database: MongoDB
 
 Authentication: JWT (JSON Web Tokens)
 Payment Gateway: Stripe
-Installation
-1 Clone the repository:
-git clone https://github.com/tanisha2203/Ecommerce.git
-cd Ecommerce
-2 Install dependencies:
-npm install
-cd client
-npm install
-cd ..
+
+
 
 
 
